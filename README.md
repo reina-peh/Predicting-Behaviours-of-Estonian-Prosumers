@@ -4,15 +4,19 @@ This is a machine learning project about predicting energy consumption behaviour
 
 Steps:  
 1. EDA  
-2. Data Preprocessing & Feature Engineering  
+2. Data Preprocessing/Data Normalization/Feature Engineering  
 3. Model Training  
 4. Validation Metric (MAE)  
-5. Ensemble
+5. Hyperparameter Tuning
+6. Ensemble
 
-Models:
+Models Used:
 1. XGBoost  
 2. CatBoost  
 3. LGBM  
 4. Neural Networks
 
-Codes are not released 
+No. of datasets:
+9
+
+Codes are not released yet
