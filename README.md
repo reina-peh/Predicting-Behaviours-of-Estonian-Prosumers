@@ -1,22 +1,14 @@
 # Predicting-Behaviours-of-Estonian-Prosumers
 
-This is a machine learning project about predicting energy consumption behaviours of Estonian prosumers using Python. Below is an outline of the steps I have taken in building a predictive model:  
+This is a machine learning personal project about predicting energy consumption behaviours of Estonian prosumers using Python. 
 
-Steps:  
-1. EDA  
-2. Data Preprocessing/Data Normalization/Feature Engineering  
-3. Model Training  
-4. Validation Metric (MAE)  
-5. Hyperparameter Tuning
-6. Ensemble
+**No. of datasets:  **
+9
 
-Models Used:
+**Models Used:  **
 1. XGBoost  
 2. CatBoost  
 3. LGBM  
-4. Neural Networks
+4. Neural Networks  
 
-No. of datasets:
-9
-
-Codes are not released yet
+Codes are privated
