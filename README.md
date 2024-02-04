@@ -2,10 +2,10 @@
 
 This is a machine learning personal project about predicting energy consumption behaviours of Estonian prosumers using Python. 
 
-**No. of datasets:  **
+**No. of datasets:**  
 9
 
-**Models Used:  **
+**Models Used:**  
 1. XGBoost  
 2. CatBoost  
 3. LGBM  
