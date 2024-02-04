@@ -2,7 +2,7 @@
 
 This is a machine learning personal project about predicting energy consumption behaviours of Estonian prosumers using Python. 
 
-**No. of datasets:**  
+**No. of Raw Datasets:**  
 9
 
 **Models Used:**  
